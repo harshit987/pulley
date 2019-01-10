@@ -48,5 +48,5 @@ Essentially, you need your own repo, and the ability to issue pull requests agai
 7. Open a pull request from `test-1` to `test` *on your own repo*
 8. Use pulley to merge your pull request, and ensure everything went smoothly
 9. Submit your real pull request with your changes
-//see what happens
+//see what happens next
 Please lend a hand!
